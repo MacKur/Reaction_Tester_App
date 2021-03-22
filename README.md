@@ -40,3 +40,7 @@ Program w losowo określonych odstępach czasu odtwarza dźwięk klaksonu, zadan
 Program uruchamia osobny skrypt CoordinationTest.py po otwarciu okna programu czas w mini grze zaczyna upływać zgodnie z zegarem, w czasie rzeczywistym śledzone jest położenie kursora myszy i sprawdzane jest czy miała miejsce interakcja w postaci naciśnięcia przez użytkownika lewego przycisku myszy w polu celu, tj. czerwonego prostokąta losowo pojawiającego się wewnątrz otoczonego ramką obszaru. Gdy program wykryje, iż użytkownik poprawnie wykonał interakcję, obliczany oraz zapisywany jest czas reakcji od momentu pojawienia się celu na ekranie, losowana jest kolejna pozycja celu i finalnie odświeżany jest ekran. Po 30-krotnym wykonaniu procedury pomiaru program zapisuje wyniki do pliku tekstowego tak jak w przypadku poprzednich testów i powraca do menu głównego. 
 
 <img src="https://raw.githubusercontent.com/MacKur/Reaction_Tester_App/main/movie.gif">
+
+## Prezentacja przykładowych wyników
+
+<img src="https://raw.githubusercontent.com/MacKur/Reaction_Tester_App/main/Wyniki.png">
